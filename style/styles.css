@@ -12,15 +12,15 @@
   font-family: "Patrick Hand", cursive;
 }
 #earlycareerbody {
-  background-color: blanchedalmond;
+  background-color: bisque;
   font-family: "Patrick Hand", cursive;
 }
 #earlylifebody {
-  background-color: cornsilk;
+  background-color: bisque;
   font-family: "Patrick Hand", cursive;
 }
 #indextable {
-  background-color: lightyellow;
+  background-color: bisque;
   font-family: "Patrick Hand", cursive;
 }
 #indexanchor {
@@ -33,4 +33,8 @@
 #racingtable {
   font-family: "Patrick Hand", cursive;
   background-color: rgba(111, 252, 240, 0.4);
+}
+#carnamestable {
+  font-family: "Patrick Hand", cursive;
+  background-color: bisque;
 }
