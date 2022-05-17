@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+#honoursh1{
+    font-family: 'Patrick Hand', cursive;
+    font-weight: bolder;
+}
+#honoursp{
+    font-family:'Patrick Hand', cursive;
+}
+#careerbody{
+  background-color: bisque;
+  font-family:'Patrick Hand', cursive ;
+}
+#earlycareerbody{
+  background-color: blanchedalmond;
+  font-family: 'Patrick Hand', cursive;
+}
+#earlylifebody{
+  background-color: cornsilk;
+  font-family:'Patrick Hand', cursive;
+}
+#indextable{
+  background-color: lightyellow;
+  font-family:'Patrick Hand', cursive;
+}
+#indexanchor{
+  font-family:'Patrick Hand', cursive;
+}
+#kartingtable{
+  font-family:'Patrick Hand', cursive;
+}
